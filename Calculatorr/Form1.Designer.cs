@@ -107,7 +107,8 @@ namespace Calculatorr
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(497, 331);
+            this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.button2.Location = new System.Drawing.Point(504, 310);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(91, 45);
             this.button2.TabIndex = 7;
