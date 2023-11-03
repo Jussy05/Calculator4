@@ -87,7 +87,11 @@ namespace Calculatorr
             // 
             // textBox3
             // 
+<<<<<<< HEAD
             this.textBox3.Location = new System.Drawing.Point(321, 202);
+=======
+            this.textBox3.Location = new System.Drawing.Point(321, 211);
+>>>>>>> feature-cal
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(132, 34);
